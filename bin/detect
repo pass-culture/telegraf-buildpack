@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Telegraf"
+exit 0
